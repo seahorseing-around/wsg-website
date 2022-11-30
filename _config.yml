@@ -56,22 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "12/14th Westside Scout Group"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "12/14th Westside Scout Group"
+  avatar: "/assets/images/WSG-Logo.png"
+  bio: "We're an adventurous Scout Group from South London. Based in Balham we've been going strong for over 100 years!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/WestsideScouts"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/seahorseing-around/wsg-site"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/WestsideScoutsSW12"
 
 footer:
   links:

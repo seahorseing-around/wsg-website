@@ -1,8 +1,12 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Sections"
+    url: /sections/
+  - title: "Join"
+    url: /join/
+  - title: "Volunteer"
+    url: /volunteer/
   - title: "Tags"
     url: /tags/
   - title: "About"
