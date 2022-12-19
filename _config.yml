@@ -22,7 +22,7 @@ github_username: seahorseing-around
 minimal_mistakes_skin: default
 search: true
 url: https://mm.ascoutinlondon.uk
-base_url: /home
+baseurl: /home
 
 # Build settings
 markdown: kramdown
