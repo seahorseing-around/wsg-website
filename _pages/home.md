@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /
-hidden: true
+permalink: 
+hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/beach.jpg
@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Join now"
       url: "/join/"
 excerpt: >
-  A fun Scout group in south London going for over 100 years.<br />
+  {{ site.description }}.<br />
   <small><a href="/about">About Us</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
