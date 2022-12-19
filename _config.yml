@@ -24,6 +24,8 @@ search: true
 url: https://mm.ascoutinlondon.uk
 # baseurl: /home # Only used if there is a resource path on the whole site
 logo: "/assets/images/logoplain.png"
+masthead_title: 12/14 Westside Scout Group
+og_image: /assets/images/WSG-Logo.png
 
 # Build settings
 markdown: kramdown
@@ -87,16 +89,16 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: "_pages"
