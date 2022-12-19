@@ -22,7 +22,8 @@ github_username: seahorseing-around
 minimal_mistakes_skin: default
 search: true
 url: https://mm.ascoutinlondon.uk
-baseurl: /home
+# baseurl: /home # Only used if there is a resource path on the whole site
+logo: "/assets/images/logoplain.png"
 
 # Build settings
 markdown: kramdown
