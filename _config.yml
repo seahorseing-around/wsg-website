@@ -26,6 +26,14 @@ url: https://mm.ascoutinlondon.uk
 logo: "/assets/images/logoplain.png"
 masthead_title: 12/14 Westside Scout Group
 og_image: /assets/images/WSG-Logo.png
+twitter:
+  username: "westsidescouts"
+social:
+  type: Organization # Person or Organization (defaults to Person)
+  name: 12/14th Westside Scout Group # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/westsidescouts"
+    - "https://instagram.com/WestsideScoutsSW12"
 
 # Build settings
 markdown: kramdown
