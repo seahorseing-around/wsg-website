@@ -8,8 +8,8 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Join now"
       url: "/join/"
-excerpt: >
-  {{ site.description }}.<br />
+excerpt: 
+  {{ site.description }} <br />
   <small><a href="/about">About Us</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
