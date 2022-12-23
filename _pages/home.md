@@ -1,6 +1,6 @@
 ---
 title: "HomeBoo"
-layout: home
+layout: splash
 permalink: /
 header:
   overlay_color: "#000"
