@@ -1,15 +1,18 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Sections"
-    url: /sections/
+  - title: "Beavers"
+    url: /beavers/
+  - title: "Cubs"
+    url: /cubs/
+  - title: "Scouts"
+    url: /scouts/
   - title: "Join"
     url: /join/
   - title: "Volunteer"
     url: /volunteer/
-  - title: "Tags"
-    url: /tags/
+  #- title: "Tags"
+  #  url: /tags/
   - title: "About"
     url: /about/
-  - title: "Splash"
-    url: /splash/
+  - title: "Posts"
+    url: /posts/
+  
