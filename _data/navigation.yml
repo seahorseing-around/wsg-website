@@ -1,14 +1,14 @@
 main:
+  - title: "Join"
+    url: /join/
+  - title: "Volunteer"
+    url: /volunteer/
   - title: "Beavers"
     url: /beavers/
   - title: "Cubs"
     url: /cubs/
   - title: "Scouts"
     url: /scouts/
-  - title: "Join"
-    url: /join/
-  - title: "Volunteer"
-    url: /volunteer/
   #- title: "Tags"
   #  url: /tags/
   - title: "About"

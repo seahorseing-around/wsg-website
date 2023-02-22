@@ -1,8 +1,18 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: /assets/images/hill-2.jpg
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+categories:
+  - Layout
+  - Uncategorized
+tags:
+  - beavers
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+12/14th Westside Scout Group is an adventurous and active Scout group based near Clapham South. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+We meet either at St Luke's Church Community Hall on Ramsden Road, or Broomwood Methodist Church off Kyrle Road.  
+
+We'rea fun, youth led group who have been going strong for over a century. We get out and camp as often as we can either in one of the local centres or , our four day Easter Camp Extravaganza with all sections is the highlight of our year.

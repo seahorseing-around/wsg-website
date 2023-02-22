@@ -1,4 +1,17 @@
-# Minimal Mistakes remote theme starter
+# Westside Scouts' Static Website
+This website is build as a Github page using the starter below.
+
+The 
+
+# Instructions
+## Make updates
+Make changes by pushing to gh-pages branch
+
+## Get Access
+Ask Craig Hawes for access by becoming a collaborator
+
+
+## Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
