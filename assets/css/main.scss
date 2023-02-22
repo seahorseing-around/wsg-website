@@ -5,9 +5,9 @@ search: false
 
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
-$serif: 'Nunito', sans-serif;
-$sans-serif: 'Nunito', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+$serif: 'Nunito Sans', sans-serif;
+$sans-serif: 'Nunito Sans', sans-serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
