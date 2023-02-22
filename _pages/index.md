@@ -10,9 +10,9 @@ header:
     - label: "Join Us!"
       url: "/join"
   caption: "Scout section at Summer camp on the Isle of Wight"
-excerpt: {{site.description}}
+excerpt: "We're an adventurous Scout Group from South London. Based in Balham, we've been going strong for over a century!"
 intro: 
-  - excerpt: "{{site.description}}"
+  - excerpt: "Westside Scout Group helps young people aged 6-14 gain skills for life."
 feature_row:
   - image_path: assets/images/beavers.jpg
     alt: "Beaver Section"
@@ -39,25 +39,9 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    alt: "Adult Volunteers"
+    title: "Volunteer at Westside"
+    excerpt: "Skills for life aren't just for the kids! Learn new things while having fun by joining the team, with flexible opportunities available."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -68,7 +52,3 @@ feature_row4:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
