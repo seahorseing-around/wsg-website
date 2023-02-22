@@ -42,9 +42,9 @@ feature_row2:
     alt: "Adult Volunteers"
     title: "Volunteer at Westside"
     excerpt: "Skills for life aren't just for the kids! Learn new things while having fun by joining the team, with flexible opportunities available."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    url: "/volunteer"
+    btn_label: "Discover our volunteering opportunities"
+    btn_class: "btn--success"
 ---
 
 {% include feature_row id="intro" type="center" %}
