@@ -1,9 +1,11 @@
 ---
 permalink: /volunteer/
 title: "Volunteer"
+layout: splash
 header:
-  image: /assets/images/beach.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/PXL_20230114_140632869.jpg
 categories:
   - Layout
   - Uncategorized

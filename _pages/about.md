@@ -1,9 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+layout: splash
 header:
-  image: /assets/images/hill-2.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/hill-2_centered.jpg
 categories:
   - Layout
   - Uncategorized
