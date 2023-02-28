@@ -1,9 +1,11 @@
 ---
 permalink: /beavers/
 title: "Beaver Section: 6-8 yrs"
+layout: splash
 header:
-  image: /assets/images/beach.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/PXL_20220417_143936993.jpg
 categories:
   - Layout
   - Uncategorized
