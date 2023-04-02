@@ -16,15 +16,25 @@ tags:
 
 **We wouldn't be able to do what we do without adults like you.**
 
-![Leader providing instruction on rifle shooting](/assets/images/IMG_8767.jpg){: .align-right width="300" max-width="100%"}
+![Leader providing instruction on rifle shooting](/assets/images/IMG_8767.jpg){: .align-right width="400" max-width="100%"}
 
-Our adult volunteers 
+Our adult volunteers are a friendly group at the heart of our community. Giving back will improve your wellbeing, equip you with skills for the future, and help you make a positive impact on the lives of young people.
 
-![Leader singing a song by a campfire](/assets/images/WSG Camp 2022-13.jpg){: .align-left width="300" max-width="100%"}
+There are two main types of roles at Westside:
 
-A further paragraph containing all the info
+- [Section leaders and assistants](#role-descriptions---frontline-roles), who run our meetings, camps and activities.
+- [Behind the scenes supporters](#role-descriptions---supporting-roles), enabling all of that to happen.
+
+Scroll down to find role descriptions for some of the help we're looking for.
+
+![Leader singing a song by a campfire](/assets/images/WSG Camp 2022-13.jpg){: .align-left width="400" max-width="100%"}
+
+If you can only occasionally help, that’s OK. Whether you’d like to be an activity planner, tea-maker or craft creator, we appreciate any time you can spare. 
+
+At Scouts we celebrate difference and welcome everyone. Whatever your background, identity or ability, there’s a volunteer spot with your name on it.
 
 <a href="mailto:gsl@westsidescouts.org?subject=Volunteering Enquiry" class="btn btn--success">Email gsl@westsidescouts.org</a> to join the team.
+{: .text-center}
 
 [//]: # <- You can use this character set to comment out sections of the below when they are filled
 
@@ -64,7 +74,7 @@ The Training Coordinator supports other adult volunteers to fulfil their mandato
 - Highlight opportunities for adult volunteers to gain skills
 - Organise opportunities for adult volunteers to gain or share skills (optional)
 
-<a href="mailto:gsl@westsidescouts.org?subject=Training Admin Enquiry" class="btn btn--success">Make a training admin enquiry</a>
+<a href="mailto:gsl@westsidescouts.org?subject=Training Coordinator Enquiry" class="btn btn--success">Make a training coordinator enquiry</a>
 {: .text-center}
 
 ### Marketing Lead
