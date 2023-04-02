@@ -16,6 +16,8 @@ tags:
 
 Hey - come help out - It's lots of fun!
 
+<a href="mailto:gsl@westsidescouts.org?subject=Volunteering Enquiry" class="btn btn--success">Email gsl@westsidescouts.org</a> to join the team.
+
 [//]: # <- You can use this character set to comment out sections of the below when they are filled
 
 ## Role descriptions - supporting roles
@@ -31,6 +33,9 @@ The most important skill for a successful GSL is the ability to manage adults ef
 - Ensure that a challenging, exciting and balanced programme is offered to young people in the Scout Group.
 - Work with the District Commissioner, Deputy District Commissioner(s) and other Group Scout Leaders in the District to ensure that the District thrives and supports Scout Groups.
 
+<a href="mailto:gsl@westsidescouts.org?subject=GSL Enquiry" class="btn btn--success">Make a GSL enquiry</a>
+{: .text-center}
+
 [//]: # ### Systems Administrator
 
 [//]: # The Systems Administrator maintains the essential computer systems the group depends upon, including our website, volunteer emails and file systems - they will be someone who is confident in the use of technology, but don’t necessarily need to have prior experience with web development or coding. This is a flexible role, with few regular commitments which can be completed quickly, but a broad scope to develop new projects. Responsibilities include:
@@ -40,6 +45,9 @@ The most important skill for a successful GSL is the ability to manage adults ef
 [//]: # - Develop additional content (optional)
 [//]: # - Develop new and innovative digital systems to support other adult volunteers in (optional)
 
+[//]: # <a href="mailto:gsl@westsidescouts.org?subject=Sysadmin Enquiry" class="btn btn--success">Make a sysadmin enquiry</a>
+[//]: # {: .text-center}
+
 ### Training Coordinator
 
 The Training Coordinator supports other adult volunteers to fulfil their mandatory training requirements and develop new skills beyond that. This is a flexible role, with well documented materials covering the core remit, but scope to do some exciting new things which would help grow the group.
@@ -48,6 +56,9 @@ The Training Coordinator supports other adult volunteers to fulfil their mandato
 - Highlight opportunities for adult volunteers to gain skills
 - Organise opportunities for adult volunteers to gain or share skills (optional)
 
+<a href="mailto:gsl@westsidescouts.org?subject=Training Admin Enquiry" class="btn btn--success">Make a training admin enquiry</a>
+{: .text-center}
+
 ### Marketing Lead
 
 The Marketing Lead helps demonstrate the great work we do within the group, to support the group to grow sustainably - in the short term, this means a particular focus on recruiting new adult volunteers! This is a flexible role, without any regular commitments, but which could be grown to meet your interests. There would be considerable opportunities to be creative, but materials are already available from HQ so it would also suit someone who enjoys reaching out to new people.
@@ -55,11 +66,17 @@ The Marketing Lead helps demonstrate the great work we do within the group, to s
 - Lead in the creation and dissemination of advertising materials to help grow the group sustainably.
 - Help section leaders to expand the group’s social media presence (optional)
 
+<a href="mailto:gsl@westsidescouts.org?subject=Marketing Lead Enquiry" class="btn btn--success">Make a marketing lead enquiry</a>
+{: .text-center}
+
 ### Group Executive Member x2
 
 A Group Executive Member sits on the Executive Committee. They act as a charity trustee, providing oversight to ensure that the group’s aims are being met in a responsible way. This role can be as simple as attending committee meetings, of which we only normally hold a few times a year, but could also be expanded to cover support for almost any area of the group’s activities.
 
 - Attend executive meetings
+
+<a href="mailto:gsl@westsidescouts.org?subject=Group Exec Enquiry" class="btn btn--success">Make a group exec enquiry</a>
+{: .text-center}
 
 ## Role descriptions - frontline roles
 
@@ -76,6 +93,9 @@ The Scouts Section Leader drives the operation of our scout section (10.5-14 yea
 - Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
 - Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
 
+<a href="mailto:gsl@westsidescouts.org?subject=Scout Leader Enquiry" class="btn btn--success">Make a leadership enquiry</a>
+{: .text-center}
+
 ### Assistant Section Leader - all sections x9
 Assistant Section Leaders support our Section Leaders to deliver great programmes for their age groups. They should be motivated to help the section deliver skills for life and comfortable engaging with our great young people on a regular basis. However, you’re not doing this alone - you will always be part of a bigger team and even semi-regular commitments (eg every other week) are a huge help. Prior knowledge of traditional scouting skills, like knots or map reading, would be helpful, but they’re not essential, and the skills that Scouts seeks to develop in our young people is wider than ever, including a range of creative and teamwork challenges - plus, the rest of our leadership team will support you to develop new skills and it can be a great way to build your practical as well ‘softer’ skills.
 
@@ -88,3 +108,5 @@ Assistant Section Leaders support the responsibilities of Section Leaders (liste
 - Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
 - Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
 
+<a href="mailto:gsl@westsidescouts.org?subject=ASL Enquiry" class="btn btn--success">Make an assistant leadership enquiry</a>
+{: .text-center}

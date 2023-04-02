@@ -9,5 +9,7 @@ search: false
 $serif: 'Nunito Sans', sans-serif;
 $sans-serif: 'Nunito Sans', sans-serif;
 
+$type-size-6: 1em;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
