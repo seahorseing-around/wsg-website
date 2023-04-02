@@ -16,3 +16,75 @@ tags:
 
 Hey - come help out - It's lots of fun!
 
+[//]: # <- You can use this character set to comment out sections of the below when they are filled
+
+## Role descriptions - supporting roles
+
+### Group Scout Leader
+
+The GSL manages and supports the Scout Group and its Leaders to ensure it runs effectively and that Scouting within the Group develops in accordance with the rules and policies of The Scout Association. They provide a strategic direction for other volunteers. 
+The most important skill for a successful GSL is the ability to manage adults effectively - no prior knowledge of traditional ‘scout skills’ or Scout Association rules is necessary! There is scope to delegate many parts of the role, or to formally share responsibility with formal Deputy GSLs.
+
+- Ensure that the Scout Group thrives and has the best systems in place to support adult volunteers and develop the Group – including a Group Executive Committee and Section leadership teams.
+- Provide line management and support to the Leaders in the Scout Group, including setting objectives for their work and holding regular reviews and one-to-one meetings.
+ -Ensure that the Scout Group has an adequate team of supported and appropriate adults working effectively together and with others to meet the Scouting needs of the area.
+- Ensure that a challenging, exciting and balanced programme is offered to young people in the Scout Group.
+- Work with the District Commissioner, Deputy District Commissioner(s) and other Group Scout Leaders in the District to ensure that the District thrives and supports Scout Groups.
+
+[//]: # ### Systems Administrator
+
+[//]: # The Systems Administrator maintains the essential computer systems the group depends upon, including our website, volunteer emails and file systems - they will be someone who is confident in the use of technology, but don’t necessarily need to have prior experience with web development or coding. This is a flexible role, with few regular commitments which can be completed quickly, but a broad scope to develop new projects. Responsibilities include:
+
+[//]: # - Maintain the group website
+[//]: # - Create user accounts and manage access permissions on our G Suite for Nonprofits account
+[//]: # - Develop additional content (optional)
+[//]: # - Develop new and innovative digital systems to support other adult volunteers in (optional)
+
+### Training Coordinator
+
+The Training Coordinator supports other adult volunteers to fulfil their mandatory training requirements and develop new skills beyond that. This is a flexible role, with well documented materials covering the core remit, but scope to do some exciting new things which would help grow the group.
+
+- Direct adult volunteers to training resources, and support them to complete mandatory training requirements for their role
+- Highlight opportunities for adult volunteers to gain skills
+- Organise opportunities for adult volunteers to gain or share skills (optional)
+
+### Marketing Lead
+
+The Marketing Lead helps demonstrate the great work we do within the group, to support the group to grow sustainably - in the short term, this means a particular focus on recruiting new adult volunteers! This is a flexible role, without any regular commitments, but which could be grown to meet your interests. There would be considerable opportunities to be creative, but materials are already available from HQ so it would also suit someone who enjoys reaching out to new people.
+
+- Lead in the creation and dissemination of advertising materials to help grow the group sustainably.
+- Help section leaders to expand the group’s social media presence (optional)
+
+### Group Executive Member x2
+
+A Group Executive Member sits on the Executive Committee. They act as a charity trustee, providing oversight to ensure that the group’s aims are being met in a responsible way. This role can be as simple as attending committee meetings, of which we only normally hold a few times a year, but could also be expanded to cover support for almost any area of the group’s activities.
+
+- Attend executive meetings
+
+## Role descriptions - frontline roles
+
+### Section Leader - Scouts section
+
+The Scouts Section Leader drives the operation of our scout section (10.5-14 years). They should be motivated to help the section deliver skills for life and comfortable engaging with our great young people on a regular basis. However, you’re not doing this alone - this role can be shared as part of a team, and will always be supported by assistant section leaders and the rest of the group. Prior knowledge of traditional scouting skills, like knots or map reading, would be helpful, but they’re not essential, and the skills that Scouts seeks to develop in our young people is wider than ever, including a range of creative and teamwork challenges - plus, the rest of our leadership team will support you to develop new skills and it can be a great way to build your practical as well ‘softer’ skills.
+
+- Delivery of a safe, exciting and stimulating Balanced Programme for the Section taking into account the needs, interests and abilities of the young people.
+- Ensure the safe delivery of the programme in accordance with the Policy, Organisation and Rules of The Scout Association.
+- Ensure that every young person in the Section has the opportunity to attend at least one nights away experience each year.
+- Actively support and promote the achievement of badges and awards in particular the Chief Scouts’ Award.
+- Ensure regular opportunities are provided for young people to express their views on the programme and running on the Section, and that those views are taken into account.
+- Agree responsibilities with Assistant Section Leaders, Section Assistants and parent helpers taking into account the development of the individual’s leadership potential.
+- Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
+- Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
+
+### Assistant Section Leader - all sections x9
+Assistant Section Leaders support our Section Leaders to deliver great programmes for their age groups. They should be motivated to help the section deliver skills for life and comfortable engaging with our great young people on a regular basis. However, you’re not doing this alone - you will always be part of a bigger team and even semi-regular commitments (eg every other week) are a huge help. Prior knowledge of traditional scouting skills, like knots or map reading, would be helpful, but they’re not essential, and the skills that Scouts seeks to develop in our young people is wider than ever, including a range of creative and teamwork challenges - plus, the rest of our leadership team will support you to develop new skills and it can be a great way to build your practical as well ‘softer’ skills.
+
+Assistant Section Leaders support the responsibilities of Section Leaders (listed below), as agreed locally:
+- Delivery of a safe, exciting and stimulating Balanced Programme for the Section taking into account the needs, interests and abilities of the young people.
+- Ensure the safe delivery of the programme in accordance with the Policy, Organisation and Rules of The Scout Association.
+- Ensure that every young person in the Section has the opportunity to attend at least one nights away experience each year.
+- Actively support and promote the achievement of badges and awards in particular the Chief Scouts’ Award.
+- Ensure regular opportunities are provided for young people to express their views on the programme and running on the Section, and that those views are taken into account.
+- Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
+- Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
+
