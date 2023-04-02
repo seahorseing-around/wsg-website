@@ -48,7 +48,7 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-S
+
 {% include feature_row id="feature_row2" type="left" %}
 
 # Find us on social media
