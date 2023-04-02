@@ -48,10 +48,10 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
+S
 {% include feature_row id="feature_row2" type="left" %}
 
 # Find us on social media
-<iframe src='https://www.juicer.io/api/feeds/westsidescoutssw12/iframe?columns=1' frameborder='0' width='500' height='1000' style='display:inline-block;'></iframe>
+<iframe src='https://www.juicer.io/api/feeds/westsidescoutssw12/iframe?columns=1' frameborder='0' width='500' height ='1000' style='display:inline-block;'></iframe>
 <div style='display:inline-block;'><a class="twitter-timeline" data-width="500" data-height="1000" href="https://twitter.com/WestsideScouts?ref_src=twsrc%5Etfw">Tweets by WestsideScouts</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><div>

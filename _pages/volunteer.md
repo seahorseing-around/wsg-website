@@ -14,7 +14,15 @@ tags:
   - volunteer
 ---
 
-Hey - come help out - It's lots of fun!
+**We wouldn't be able to do what we do without adults like you.**
+
+![Leader providing instruction on rifle shooting](/assets/images/IMG_8767.jpg){: .align-right width="300" max-width="100%"}
+
+Our adult volunteers 
+
+![Leader singing a song by a campfire](/assets/images/WSG Camp 2022-13.jpg){: .align-left width="300" max-width="100%"}
+
+A further paragraph containing all the info
 
 <a href="mailto:gsl@westsidescouts.org?subject=Volunteering Enquiry" class="btn btn--success">Email gsl@westsidescouts.org</a> to join the team.
 

@@ -15,13 +15,13 @@ tags:
 
 **Jump in and get muddy. Give back and get set. Scouts ignore the butterflies and go for it, and soon so will you.**
 
-![Happy scout on camp](/assets/images/IMG_8627_300x200.jpg){: .align-left}
+![Happy scout on camp](/assets/images/IMG_8627.jpg){: .align-left width="300px" max-width="100%"}
 
 Our Scouts are a go-getting group of young people who master new skills, make new friends and explore the world around them, every Tuesday night. 
 
 We run a varied programme of activities, pushing our young people to work together better, try new crafts, and explore their own values. We're lucky to have such a green neighbourhood and make regular use of the local commons.
 
-![Scouts on pavement looking at phone](/assets/images/IMG_7087_300x200.jpg){: .align-right}
+![Scouts on pavement looking at phone](/assets/images/IMG_7087.jpg){: .align-right width="300px" max-midth="100%"}
 
 In addition to regular troop nights, we go camping two to three times a year. This includes our group Easter camp, where all sections get together, and a Winter camp under canvas, where the challenge from the weather is part of the fun!
 

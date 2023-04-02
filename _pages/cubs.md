@@ -15,7 +15,7 @@ tags:
 
 **Develop new skills. Soar to great heights. Being a Cub opens up a whole other world.**
 
-![Cubs playing a game involving chairs](/assets/images/chairs_400x300.jpg){: .align-right} 
+![Cubs playing a game involving chairs](/assets/images/chairs.jpg){: .align-right width="400px" max-width="100%"} 
 
 Non-square images can provide some unique styling issues.
 
