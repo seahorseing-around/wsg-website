@@ -127,3 +127,7 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+lunr:
+  search_within_pages: true
+  search_full_content: true
