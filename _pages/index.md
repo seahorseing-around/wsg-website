@@ -12,7 +12,7 @@ header:
   caption: "Scout section at Summer camp on the Isle of Wight"
 excerpt: "We're an adventurous Scout Group from South London. Based in Balham, we've been going strong for over a century!"
 intro: 
-  - excerpt: "Westside Scout Group helps young people aged 6-14 gain skills for life."
+  - excerpt: "Helping young people gain skills for life."
 feature_row:
   - image_path: assets/images/IMG_8815_3x2.jpg
     alt: "Beaver Section"
@@ -52,6 +52,21 @@ feature_row2:
 {% include feature_row id="feature_row2" type="left" %}
 
 # Find us on social media
-<iframe src='https://www.juicer.io/api/feeds/westsidescoutssw12/iframe?columns=1' frameborder='0' width='500' height='1000' style='display:inline-block;'></iframe>
-<div style='display:inline-block;'><a class="twitter-timeline" data-width="500" data-height="1000" href="https://twitter.com/WestsideScouts?ref_src=twsrc%5Etfw">Tweets by WestsideScouts</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><div>
+
+<figure class="half">
+  <a href="/moo">
+    <div>
+      <iframe src='https://www.juicer.io/api/feeds/westsidescoutssw12/iframe?columns=1' frameborder='0' width='100%' height='1000' style='display:inline-block;'></iframe>  
+    </div>
+  </a>
+  <a href="/moo">
+      <div style='display:inline-block;'><a class="twitter-timeline" data-width="100%" data-height="1000" href="https://twitter.com/WestsideScouts?ref_src=twsrc%5Etfw">Tweets by WestsideScouts</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+      </div>
+    
+  </a>
+</figure>
+
+
+
+

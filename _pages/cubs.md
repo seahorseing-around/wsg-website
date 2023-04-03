@@ -6,6 +6,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/waterfight_centered.jpg
+  actions:
+    - label: "Join us!"
+      url: "/join"
 categories:
   - Layout
   - Uncategorized
@@ -15,7 +18,7 @@ tags:
 
 **Develop new skills. Soar to great heights. Being a Cub opens up a whole other world.**
 
-![Cubs playing a game involving chairs](/assets/images/chairs.jpg){: .align-right width="400px" max-width="100%"} 
+![Cubs playing a game involving chairs](/assets/images/chairs_400x300.jpg){: .align-right} 
 
 Non-square images can provide some unique styling issues.
 
