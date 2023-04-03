@@ -20,14 +20,12 @@ gallery:
     alt: "placeholder image 2"
 ---
 
-12/14th Westside Scout Group is an adventurous and active Scout group based near Clapham South. We're made up for five sections covering ages 6 to 14, with over 100 youth members. All through the year, we're up to interesting activities which build skills for life:
+12/14th Westside Scout Group is an adventurous and active Scout group based near Clapham South. We're a fun, youth led group who have been going strong for over a century. We're made up for five sections covering ages 6 to 14, with over 100 youth members. All through the year, we're up to interesting activities which build skills for life:
 - Regular meetings during term time
 - Camps and nights away for all age groups, including our annual Group Easter camp with all sections
 - Community events, such as taking part in the annual Nightingale Walk to raise funds for other local causes
 
 {% include gallery %}
-
-We're a fun, youth led group who have been going strong for over a century. We get out and camp as often as we can. Our four day Easter Camp Extravaganza with all sections is the highlight of our year.
 
 Our volunteers are from a mix of backgrounds: younger adults who grew up in Scouting and have moved to London for work; Young Leaders in their teens who have previously been members of our sections and parents from the local area who volunteer while their children are members (but often enjoy it enough to stick around even after their kids age out!).
 
@@ -35,7 +33,6 @@ Our volunteers are from a mix of backgrounds: younger adults who grew up in Scou
 Email: [gsl@westsidescouts.org](mailto:gsl@westsidescouts.org) \\
 Post: 12/14th Battersea Westside Scouts, St Luke's Community Hall, 194 Ramsden Road, SW12 8RQ
 {: .notice }
-
 
 We meet either at St Luke's Church Community Hall on Ramsden Road, or Broomwood Methodist Church off Kyrle Road. We have strong connections with the communities of both churches however our sections are open to anyone regardless of religious or non-religious alignment. 
 
