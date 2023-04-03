@@ -29,7 +29,7 @@ gallery:
 
 Our volunteers are from a mix of backgrounds: younger adults who grew up in Scouting and have moved to London for work; Young Leaders in their teens who have previously been members of our sections and parents from the local area who volunteer while their children are members (but often enjoy it enough to stick around even after their kids age out!).
 
-**Contact Us** \\
+<a id="contact"> </a> **Contact Us** \\
 Email: [gsl@westsidescouts.org](mailto:gsl@westsidescouts.org) \\
 Post: 12/14th Battersea Westside Scouts, St Luke's Community Hall, 194 Ramsden Road, SW12 8RQ
 {: .notice }

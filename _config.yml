@@ -94,6 +94,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/seahorseing-around/wsg-site"
+    - label: "Members"
+      icon: "fas fa-users"
+      url: "/members"
 
 defaults:
   # _posts
