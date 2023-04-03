@@ -27,14 +27,20 @@ gallery:
 
 {% include gallery %}
 
+We're a fun, youth led group who have been going strong for over a century. We get out and camp as often as we can. Our four day Easter Camp Extravaganza with all sections is the highlight of our year.
+
+Our volunteers are from a mix of backgrounds: younger adults who grew up in Scouting and have moved to London for work; Young Leaders in their teens who have previously been members of our sections and parents from the local area who volunteer while their children are members (but often enjoy it enough to stick around even after their kids age out!).
+
 **Contact Us** \\
 Email: [gsl@westsidescouts.org](mailto:gsl@westsidescouts.org) \\
 Post: 12/14th Battersea Westside Scouts, St Luke's Community Hall, 194 Ramsden Road, SW12 8RQ
 {: .notice }
+
+
+We meet either at St Luke's Church Community Hall on Ramsden Road, or Broomwood Methodist Church off Kyrle Road. We have strong connections with the communities of both churches however our sections are open to anyone regardless of religious or non-religious alignment. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9945.310961948246!2d-0.1568314!3d51.4521388!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876058f7008e3f5%3A0x517aca1aba9da354!2s12%2F14th%20Westside%20Scouts!5e0!3m2!1sen!2suk!4v1680477986786!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 Our main address is at St Luke's Community Hall, between Clapham and Wandsworth Commons.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10236.373736738802!2d-0.16570999009175108!3d51.45372907374747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487605bf2a09239d%3A0xe96394772b0e0baa!2sBroomwood%20Methodist%20Church!5e0!3m2!1sen!2suk!4v1680478299250!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 Our second meeting point is the nearby Broomwood Methodist Church.
-

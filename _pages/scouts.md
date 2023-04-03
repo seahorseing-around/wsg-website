@@ -6,6 +6,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/beach-cycle.jpg
+  actions:
+  - label: "Join us!"
+    url: "/join"
 categories:
   - Layout
   - Uncategorized
@@ -13,13 +16,13 @@ tags:
   - scouts
 ---
 
-**Jump in and get muddy. Give back and get set. Scouts ignore the butterflies and go for it, and soon so will you.**
+**Jump in and get muddy. Give back and get set. Scouts ignore the butterflies and go for it!**
 
 ![Happy scout on camp](/assets/images/IMG_8627.jpg){: .align-left width="300px" max-width="100%"}
 
 Our Scouts are a go-getting group of young people who master new skills, make new friends and explore the world around them, every Tuesday night. 
 
-We run a varied programme of activities, pushing our young people to work together better, try new crafts, and explore their own values. We're lucky to have such a green neighbourhood and make regular use of the local commons.
+We run a varied programme of activities, pushing our young people to work together better, try new crafts, and explore their own values. We're lucky to have a beautifully green neighbourhood and make regular use of the commons.
 
 ![Scouts on pavement looking at phone](/assets/images/IMG_7087.jpg){: .align-right width="300px" max-midth="100%"}
 

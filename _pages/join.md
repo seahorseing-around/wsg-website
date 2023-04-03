@@ -6,7 +6,19 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "/assets/images/WSG Camp 2022-9_shortened.jpg"
----
 
-Hey - want to be a Beaver, Cub, or Scout - click here weeeeee
 
+Please click the button below to add a prospective new member to our Waiting List. Make sure you read the information below first. 
+
+Please be aware we are heavily over subscribed and our capacity is limited by the number of regular volunteers. <a target="_blank"  href="/volunteer">Voluteering with one of our sections</a> is a good way to help your child get a space. Please see the <a target="_blank"  href="https://docs.google.com/document/d/e/2PACX-1vRpvOUkQGHyYgDzhU6PVrKm8wAUTcwi-xMyg7TDU6_Orz7cUYn7unSBtTpqKadZ83gfQXjT2vOU0f6N/pub">Waiting List Policy</a> for full information.
+
+**Key Info**\
+    * Prospective members must be at least 4 years old when they are signed up.\
+    * Before signing up please review our <a target="_blank"  href="https://docs.google.com/document/d/e/2PACX-1vRpvOUkQGHyYgDzhU6PVrKm8wAUTcwi-xMyg7TDU6_Orz7cUYn7unSBtTpqKadZ83gfQXjT2vOU0f6N/pub">Waiting List Policy</a>.\
+    * After signing up you should get email confirmation, please get in touch if that doesn't happen\
+    * For any questions please contact gsl@westsidescouts.org
+{: .notice--info }
+
+
+
+ <a target="_blank" class="btn btn--success" href="https://www.onlinescoutmanager.co.uk/waiting-list/1214th-wsg-waiting-list/cfceb999-789f-47cf-b014-de43768fdc5c/apply">Sign up!</a> 

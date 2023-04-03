@@ -12,7 +12,7 @@ header:
   caption: "Scout section at Summer camp on the Isle of Wight"
 excerpt: "We're an adventurous Scout Group from South London. Based in Balham, we've been going strong for over a century!"
 intro: 
-  - excerpt: "Westside Scout Group helps young people aged 6-14 gain skills for life."
+  - excerpt: "Helping young people gain skills for life."
 feature_row:
   - image_path: assets/images/IMG_8815_3x2.jpg
     alt: "Beaver Section"
