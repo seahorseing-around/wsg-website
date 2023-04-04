@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Join Us!"
       url: "/join"
-  caption: "Scout section at Summer camp on the Isle of Wight"
+ # caption: "Scout section at Summer camp on the Isle of Wight"
 excerpt: "We're an adventurous Scout Group from South London. Based in Balham, we've been going strong for over a century!"
 intro: 
   - excerpt: "Helping young people gain skills for life."

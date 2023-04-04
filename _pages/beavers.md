@@ -18,7 +18,15 @@ tags:
 
 **Try new things. Make new friends. Join Beavers to begin your big adventure!**
 
-Beavers is the start of your Scouting Journey. The best word to describe Beavers is *Variety*. Beavers get to try new things every week. Activities, ideas, foods and experiences, our Beavers are starting to properly notice the world so we bring the world to them so they can see what exciting things are out there!
+![A picture of two beavers getting ready for a climbing activity](/assets/images/IMG-20190421-WA0003.jpg){: .align-right width="360px" max-width="100%"} 
+
+Beavers is the start of your scouting journey and a great place to try new things. Every week, they hop, skip and jump their way through lots of different games and activities – achieving anything they set their minds to, and having lots of fun along the way.
+
+Our Beavers:
+
+- Explore the great outdoors, including the opportunity for at least one night away from home every year
+- Try new activites and learn new skills - picking up stuff they couldn't learn in school by exploring, playing and doing
+- Help others, working as a team to make changes big and small
 
 **Key Info - Broomwood Beavers** \\
 When: 6.00 to 7.00pm, Mondays\\
@@ -26,7 +34,7 @@ Where: Broomwood Methodist Church, Kyrle Road \\
 Ages: 6 to 8
 {: .notice--warning }
 
-**Key Info - St Luke's Cubs** \\
+**Key Info - St Luke's Beavers** \\
 When: 6.00 to 7.00pm, Tuesdays\\
 Where: St Luke's Community Hall, Ramsden Road \\
 Ages: 6 to 8
