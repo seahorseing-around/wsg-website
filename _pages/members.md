@@ -30,6 +30,7 @@ categories:
 - <a href="https://www.scouts.org.uk/por" target="_blank">POR</a>
 - <a href="https://compass.scouts.org.uk/login/User/Login" target="_blank">Compass</a>
 - <a href="https://thescouts.disclosures.co.uk/secure/login.php" target="_blank">Disclosures</a>
+  - <a href="https://cms.scouts.org.uk/media/12461/ms-compass-id-checking-form-version-5_nov2018_editable_final.pdf" target="_blank">ID checking form</a> / <a href="https://www.gov.uk/government/publications/dbs-identity-checking-guidelines/id-checking-guidelines-for-standardenhanced-dbs-check-applications-from-1-july-2021" target="_blank">DBS guidelines</a> - send completed form to <a href="mailto:disclosures@westsidescouts.org" target="_blank">disclosures@westsidescouts.org</a>
 - <a href="https://www.scouts.org.uk/activities" target="_blank">Activity ideas</a>
 - <a href="https://drive.google.com" target="_blank">Google Drive</a> / <a href="https://mail.google.com" target="_blank">Gmail</a> - log in with your Westside email, or add your account by clicking on your profile picture in the top right. Contact [sysadmin@westsidescouts.org](mailto:sysadmin@westsidescouts.org) for help with your account.
   - <a href="https://drive.google.com/drive/folders/1j_a511W2pW3fWMlkyOSZ46et9mI1D_2B?usp=sharing" target="_blank">How to guides</a> - you will need to be logged in to your Westside account to access.
