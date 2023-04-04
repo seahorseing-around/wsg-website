@@ -1,6 +1,6 @@
 ---
 permalink: /cubs/
-title: "Cub Scout Section: 8-10 yrs"
+title: "Cub Section: 8 to 10 years"
 layout: splash
 header:
   overlay_color: "#000"
@@ -20,9 +20,11 @@ tags:
 
 ![A picture of cubs playing a game involving chairs](/assets/images/chairs.jpg){: .align-right width="400px" max-width="100%"} 
 
-Non-square images can provide some unique styling issues.
+Every Tuesday, our two packs take part in challenges, crafts, activites and games which push them as individuals and as teams - growing and learning in small but mighty ways.
 
-This post tests a horizontal header image.
+Cubs work as a team to help other people. Together, they learn about global and local issues and what they can all do to help solve them.
+
+In addition to regular use of local green spaces, our Cubs normally go camping twice a year - a fantastic opportunity to forge new adventures away from home and get to know the great outdoors by being surrounded by it.  
 
 **Key Info - Broomwood Cubs** \\
 When: 7.00 to 8.30pm, Tuesdays\\

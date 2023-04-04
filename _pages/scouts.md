@@ -1,6 +1,6 @@
 ---
 permalink: /scouts/
-title: "Scout Section: 10-14 yrs"
+title: "Scout Section: 10 to 14 years"
 layout: splash
 header:
   overlay_color: "#000"

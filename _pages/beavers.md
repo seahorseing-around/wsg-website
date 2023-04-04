@@ -1,6 +1,6 @@
 ---
 permalink: /beavers/
-title: "Beaver Section: 6-8 yrs"
+title: "Beaver Section: 6 to 8 years"
 layout: splash
 header:
   overlay_color: "#000"
