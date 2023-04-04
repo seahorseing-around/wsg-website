@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/hill-2_centered.jpg
+  overlay_image: /assets/images/IMG_7301.jpg
 categories:
   - Layout
   - Uncategorized
