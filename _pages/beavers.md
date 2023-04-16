@@ -36,7 +36,7 @@ Our Beavers:
 - Help others, working as a team to make changes big and small
 
 **Key Info - Broomwood Beavers** \\
-When: 6.00 to 7.00pm, Mondays\\
+When: 6.15 to 7.15pm, Mondays\\
 Where: Broomwood Methodist Church, Kyrle Road \\
 Ages: 6 to 8
 {: .notice--warning }
