@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/hill-2_centered.jpg
+  overlay_image: /assets/images/IMG_0286.jpg
 categories:
   - Layout
   - Uncategorized
@@ -13,11 +13,11 @@ tags:
   - beavers
 gallery:
   - image_path: /assets/images/IMG_7569.jpg
-    alt: "placeholder image 1"
+    alt: "A picture of two scouts ice skating"
   - image_path: /assets/images/IMG_7219.jpg
-    alt: "placeholder image 2"
+    alt: "A picture of cubs getting ready to cook on open fires"
   - image_path: /assets/images/IMG_8628.jpg
-    alt: "placeholder image 2"
+    alt: "A picture of a scout laughing on camp"
 ---
 
 12/14th Westside Scout Group is an adventurous and active Scout group based near Clapham South. We're a fun, youth led group who have been going strong for over a century. We're made up for five sections covering ages 6 to 14, with over 100 youth members. All through the year, we're up to interesting activities which build skills for life:

@@ -14,8 +14,8 @@ excerpt: "We're an adventurous Scout Group from South London. Based in Balham, w
 intro: 
   - excerpt: "Helping young people gain skills for life."
 feature_row:
-  - image_path: assets/images/IMG_8815_3x2.jpg
-    alt: "A picture of a smiling beaver during a caving activity"
+  - image_path: /assets/images/IMG_9988.jpg
+    alt: "A picture of a beaver running through the woods"
     title: "Beavers (6 to 8)"
     #excerpt: "6-8 yrs"
     url: "/beavers"

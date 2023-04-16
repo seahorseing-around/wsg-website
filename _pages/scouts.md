@@ -14,6 +14,13 @@ categories:
   - Uncategorized
 tags:
   - scouts
+gallery:
+  - image_path: /assets/images/IMG_9450.jpg
+    alt: "A picture of a scout climbing out of the water after having capsized while kayaking"
+  - image_path: /assets/images/IMG_9117.jpg
+    alt: "A picture of two scouts putting up a tent"
+  - image_path: assets/images/IMG_8657.jpg
+    alt: "A picture of a scout sawing a palate"
 ---
 
 **Jump in and get muddy. Give back and get set. Scouts ignore the butterflies and go for it!**
@@ -35,6 +42,8 @@ When: 7.00 to 9.00pm, Tuesdays\\
 Where: St Luke's Community Hall, Ramsden Road \\
 Ages: 10.5 to 14
 {: .notice--info }
+
+{% include gallery %}
 
 Sound good? Find out how to <a href="../join" class="btn btn--success">join us.</a>
 {: .text-center}

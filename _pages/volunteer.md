@@ -12,6 +12,13 @@ categories:
 tags:
   - adults
   - volunteer
+gallery:
+  - image_path: /assets/images/IMG_0253.jpg
+    alt: "A picture of an adult volunteer being invested"
+  - image_path: /assets/images/IMG_0417.jpg
+    alt: "A picture of an adult volunteer talking to a beaver"
+  - image_path: /assets/images/IMG_9569.jpg
+    alt: "A picture of an adult volunteer getting splashed while kayaking"
 ---
 
 **We wouldn't be able to do what we do without adults like you.**
@@ -29,7 +36,9 @@ Scroll down to find role descriptions for some of the help we're looking for.
 
 ![Leader singing a song by a campfire](/assets/images/WSG Camp 2022-13.jpg){: .align-left width="400" max-width="100%"}
 
-If you can only occasionally help, that’s OK. Whether you’d like to be an activity planner, tea-maker or craft creator, we appreciate any time you can spare. 
+If you can only occasionally help, that’s OK. Whether you’d like to be an activity planner, tea-maker or craft creator, we appreciate any time you can spare. In fact, almost all of our roles can be flexible to suit your other commitments.
+
+Neither do you need to have any 'traditional' scout skills, such as tying knots or reading maps, before joining us - all you need is enthusiasm to get stuck in, and we can support you to learn new things if you want.
 
 At Scouts we celebrate difference and welcome everyone. Whatever your background, identity or ability, there’s a volunteer spot with your name on it.
 
@@ -37,6 +46,8 @@ At Scouts we celebrate difference and welcome everyone. Whatever your background
 {: .text-center}
 
 [//]: # <- You can use this character set to comment out sections of the below when they are filled
+
+{% include gallery %}
 
 ## Role descriptions - supporting roles
 
@@ -66,16 +77,16 @@ The most important skill for a successful GSL is the ability to manage adults ef
 [//]: # <a href="mailto:gsl@westsidescouts.org?subject=Sysadmin Enquiry" class="btn btn--success">Make a sysadmin enquiry</a>
 [//]: # {: .text-center}
 
-### Training Coordinator
+[//]: # ### Training Coordinator
 
-The Training Coordinator supports other adult volunteers to fulfil their mandatory training requirements and develop new skills beyond that. This is a flexible role, with well documented materials covering the core remit, but scope to do some exciting new things which would help grow the group.
+[//]: # The Training Coordinator supports other adult volunteers to fulfil their mandatory training requirements and develop new skills beyond that. This is a flexible role, with well documented materials covering the core remit, but scope to do some exciting new things which would help grow the group.
 
-- Direct adult volunteers to training resources, and support them to complete mandatory training requirements for their role
-- Highlight opportunities for adult volunteers to gain skills
-- Organise opportunities for adult volunteers to gain or share skills (optional)
+[//]: # - Direct adult volunteers to training resources, and support them to complete mandatory training requirements for their role
+[//]: # - Highlight opportunities for adult volunteers to gain skills
+[//]: # - Organise opportunities for adult volunteers to gain or share skills (optional)
 
-<a href="mailto:gsl@westsidescouts.org?subject=Training Coordinator Enquiry" class="btn btn--success">Make a training coordinator enquiry</a>
-{: .text-center}
+[//]: # <a href="mailto:gsl@westsidescouts.org?subject=Training Coordinator Enquiry" class="btn btn--success">Make a training coordinator enquiry</a>
+[//]: # {: .text-center}
 
 ### Marketing Lead
 

@@ -14,6 +14,13 @@ categories:
   - Uncategorized
 tags:
   - cubs
+gallery:
+  - image_path: /assets/images/IMG_9097.jpg
+    alt: "A picture of three cubs walking around a puddle in a muddy track"
+  - image_path: /assets/images/IMG_9749.jpg
+    alt: "A picture of a cub climbing a ladder as part of a high ropes activity"
+  - image_path: assets/images/IMG_0228.jpg
+    alt: "A picture of a three cubs in uniform singing a song with actions"
 ---
 
 **Develop new skills. Soar to great heights. Being a Cub opens up a whole other world.**
@@ -37,6 +44,8 @@ When: 7.00 to 8.30pm, Tuesdays\\
 Where: St Luke's Community Hall, Ramsden Road \\
 Ages: 8 to 10.5
 {: .notice--info }
+
+{% include gallery %}
 
 Sound good? Find out how to <a href="../join" class="btn btn--success">join us.</a>
 {: .text-center}
