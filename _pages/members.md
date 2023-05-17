@@ -34,3 +34,14 @@ categories:
 - <a href="https://www.scouts.org.uk/activities" target="_blank">Activity ideas</a>
 - <a href="https://drive.google.com" target="_blank">Google Drive</a> / <a href="https://mail.google.com" target="_blank">Gmail</a> - log in with your Westside email, or add your account by clicking on your profile picture in the top right. Contact [sysadmin@westsidescouts.org](mailto:sysadmin@westsidescouts.org) for help with your account.
   - <a href="https://drive.google.com/drive/folders/1j_a511W2pW3fWMlkyOSZ46et9mI1D_2B?usp=sharing" target="_blank">How to guides</a> - you will need to be logged in to your Westside account to access.
+
+## Governance
+- <a href="https://docs.google.com/document/d/1RPAWC9TCVfvAf3CA01TKDnj5UGj-nkOzV3n6kZFgE_I/edit?usp=sharing" target="_blank">Constitution</a>
+- Annual General Meetings:
+  - 2023: <a href="https://drive.google.com/file/d/1wcShOB8JK_-sG-xQFlVHWZrPSPWPfHZR/view?usp=sharing" target = "_blank">Treasurer's Report</a>
+  - 2022: <a href="https://docs.google.com/document/d/1Y_SOG6MNewug0VXZjeVjYCf-4dWt-MMIZEA1E46MLM0/edit?usp=sharing" target="_blank">Minutes</a>
+  - 2021: <a href="https://docs.google.com/document/d/1JVE1R5zXdOw3JNja4BqAS5daKzImQQJiOw4433mWAII/edit?usp=sharing" target="_blank">Minutes</a>
+  - 2019: <a href="https://drive.google.com/file/d/19OQGG0EOm1isp-IgODtD5HUjOFTrRplM/view?usp=sharing" target="_blank">Annual Report</a>
+  - 2018: <a href="https://drive.google.com/file/d/1eOSwuOwaakmYm463f24UjxC8OeDq2yjg/view?usp=sharing" target="_blank">Minutes</a> |
+    <a href="https://drive.google.com/file/d/17fnbJj5kO3nYZMb2XOMDuGNbFK0vA_bA/view?usp=sharing" target="_blank">Annual Report</a>
+  - 2017: <a href="https://drive.google.com/file/d/1HykXBevxjxN3wyB-GzLLzlr2SAtBKRuD/view?usp=sharing" target="_blank">Minutes</a>

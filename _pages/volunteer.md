@@ -51,18 +51,18 @@ At Scouts we celebrate difference and welcome everyone. Whatever your background
 
 ## Role descriptions - supporting roles
 
-### Group Scout Leader
+### Lead Volunteer
 
-The GSL manages and supports the Scout Group and its Leaders to ensure it runs effectively and that Scouting within the Group develops in accordance with the rules and policies of The Scout Association. They provide a strategic direction for other volunteers. 
-The most important skill for a successful GSL is the ability to manage adults effectively - no prior knowledge of traditional ‘scout skills’ or Scout Association rules is necessary! There is scope to delegate many parts of the role, or to formally share responsibility with formal Deputy GSLs.
+The Lead Volunteer manages and supports the Scout Group and its Leaders to ensure it runs effectively and that Scouting within the Group develops in accordance with the rules and policies of The Scout Association. They provide a strategic direction for other volunteers. 
+The most important skill for a successful Lead Volunteer is the ability to manage adults effectively - no prior knowledge of traditional ‘scout skills’ or Scout Association rules is necessary! There is scope to delegate many parts of the role, or to formally share responsibility with formal Deputy Lead Volunteers.
 
-- Ensure that the Scout Group thrives and has the best systems in place to support adult volunteers and develop the Group – including a Group Executive Committee and Section leadership teams.
+- Ensure that the Scout Group thrives and has the best systems in place to support adult volunteers and develop the Group – including a Group Trustee Board and Section leadership teams.
 - Provide line management and support to the Leaders in the Scout Group, including setting objectives for their work and holding regular reviews and one-to-one meetings.
  -Ensure that the Scout Group has an adequate team of supported and appropriate adults working effectively together and with others to meet the Scouting needs of the area.
 - Ensure that a challenging, exciting and balanced programme is offered to young people in the Scout Group.
-- Work with the District Commissioner, Deputy District Commissioner(s) and other Group Scout Leaders in the District to ensure that the District thrives and supports Scout Groups.
+- Work with other Lead Volunteers in the District to ensure that the District thrives and supports Scout Groups.
 
-<a href="mailto:gsl@westsidescouts.org?subject=GSL Enquiry" class="btn btn--success">Make a GSL enquiry</a>
+<a href="mailto:gsl@westsidescouts.org?subject=Lead Volunteer Enquiry" class="btn btn--success">Make a lead volunteer enquiry</a>
 {: .text-center}
 
 [//]: # ### Systems Administrator
@@ -98,13 +98,13 @@ The Marketing Lead helps demonstrate the great work we do within the group, to s
 <a href="mailto:gsl@westsidescouts.org?subject=Marketing Lead Enquiry" class="btn btn--success">Make a marketing lead enquiry</a>
 {: .text-center}
 
-### Group Executive Member x2
+### Group Trustee x2
 
-A Group Executive Member sits on the Executive Committee. They act as a charity trustee, providing oversight to ensure that the group’s aims are being met in a responsible way. This role can be as simple as attending committee meetings, of which we only normally hold a few times a year, but could also be expanded to cover support for almost any area of the group’s activities.
+A Group Trustee sits on the Group Trustee Board. They act as a charity trustee, providing oversight to ensure that the group’s aims are being met in a responsible way. This role can be as simple as attending board meetings, of which we only normally hold a few times a year, but could also be expanded to cover support for almost any area of the group’s activities.
 
-- Attend executive meetings
+- Attend Trustee Board meetings
 
-<a href="mailto:gsl@westsidescouts.org?subject=Group Exec Enquiry" class="btn btn--success">Make a group exec enquiry</a>
+<a href="mailto:gsl@westsidescouts.org?subject=Trustee Enquiry" class="btn btn--success">Make a trustee enquiry</a>
 {: .text-center}
 
 ## Role descriptions - frontline roles
