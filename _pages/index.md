@@ -60,8 +60,8 @@ gallery:
 
 {% include gallery %}
 
-# Find us on social media
-<div style='display:inline-block;width:49%;min-width:300px;'><iframe src='https://www.juicer.io/api/feeds/westsidescoutssw12/iframe?columns=1' frameborder='0' width = "100%" height='1000'></iframe></div>
-<div style='display:inline-block;width:49%;min-width:300px;'><a class="twitter-timeline" data-width="100%" data-height="1000" href="https://twitter.com/WestsideScouts?ref_src=twsrc%5Etfw" 
-  data-chrome="noborders">Tweets by WestsideScouts</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><div>
+[//]: # Find us on social media
+[//]: <div style='display:inline-block;width:49%;min-width:300px;'><iframe src='https://www.juicer.io/api/feeds/westsidescoutssw12/iframe?columns=1' frameborder='0' width = "100%" height='1000'></iframe></div>
+[//]: <div style='display:inline-block;width:49%;min-width:300px;'><a class="twitter-timeline" data-width="100%" data-height="1000" href="https://twitter.com/WestsideScouts?ref_src=twsrc%5Etfw" 
+[//]:   data-chrome="noborders">Tweets by WestsideScouts</a>
+[//]: <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><div>
