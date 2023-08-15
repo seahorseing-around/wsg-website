@@ -38,7 +38,8 @@ categories:
 ## Governance
 - <a href="https://docs.google.com/document/d/1RPAWC9TCVfvAf3CA01TKDnj5UGj-nkOzV3n6kZFgE_I/edit?usp=sharing" target="_blank">Constitution</a>
 - Annual General Meetings:
-  - 2023: <a href="https://drive.google.com/file/d/1wcShOB8JK_-sG-xQFlVHWZrPSPWPfHZR/view?usp=sharing" target = "_blank">Treasurer's Report</a>
+  - 2023: <a href="https://drive.google.com/file/d/1wcShOB8JK_-sG-xQFlVHWZrPSPWPfHZR/view?usp=sharing" target = "_blank">Treasurer's Report</a> | 
+    <a href="https://docs.google.com/document/d/111nF-CFlZfY4LdZ_GbiEym2N1FP9gHJ6/edit?usp=sharing&ouid=116974087358577509725&rtpof=true&sd=true" target = "_blank">Draft minutes</a>
   - 2022: <a href="https://docs.google.com/document/d/1Y_SOG6MNewug0VXZjeVjYCf-4dWt-MMIZEA1E46MLM0/edit?usp=sharing" target="_blank">Minutes</a>
   - 2021: <a href="https://docs.google.com/document/d/1JVE1R5zXdOw3JNja4BqAS5daKzImQQJiOw4433mWAII/edit?usp=sharing" target="_blank">Minutes</a>
   - 2019: <a href="https://drive.google.com/file/d/19OQGG0EOm1isp-IgODtD5HUjOFTrRplM/view?usp=sharing" target="_blank">Annual Report</a>
