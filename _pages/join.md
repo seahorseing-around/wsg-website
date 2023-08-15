@@ -17,7 +17,7 @@ Please be aware we are heavily over subscribed and our capacity is limited by th
 **Key Info**\
     * Prospective members must be at least 4 years old when they are signed up. \
     * Before signing up please review our <a target="_blank"  href="https://docs.google.com/document/d/e/2PACX-1vRpvOUkQGHyYgDzhU6PVrKm8wAUTcwi-xMyg7TDU6_Orz7cUYn7unSBtTpqKadZ83gfQXjT2vOU0f6N/pub">Waiting List Policy</a>. By signing your child up to our waiting list, you are giving consent for us to hold relevant data in line with our <a href="https://docs.google.com/document/d/1QKeWxTek5o3ATr4RLzYcohO6Iaxs127v/edit?usp=sharing&ouid=116974087358577509725&rtpof=true&sd=true" target="_blank">Privacy Notice</a> - you may request this data is removed at any time by contacting us. \
-    * After signing up you should get email confirmation, please get in touch if that doesn't happen. We don't routinely give updates on positions within the waiting list, so don't be alarmed if we don't contact you quickly. \
+    * After signing up you should get email confirmation, please get in touch if that doesn't happen. We don't routinely give updates on positions within the waiting list, so don't be alarmed if we don't contact you quickly otherwise. \
     * For any questions please contact [lead.volunteer@westsidescouts.org](mailto:lead.volunteer@westsidescouts.org?subject=Youth member enquiry).
 {: .notice--info }
 
