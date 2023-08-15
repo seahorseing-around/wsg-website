@@ -98,14 +98,14 @@ The Marketing Lead helps demonstrate the great work we do within the group, to s
 <a href="mailto:gsl@westsidescouts.org?subject=Marketing Lead Enquiry" class="btn btn--success">Make a marketing lead enquiry</a>
 {: .text-center}
 
-### Group Trustee x2
+[//]: ### Group Trustee x2
 
-A Group Trustee sits on the Group Trustee Board. They act as a charity trustee, providing oversight to ensure that the group’s aims are being met in a responsible way. This role can be as simple as attending board meetings, of which we only normally hold a few times a year, but could also be expanded to cover support for almost any area of the group’s activities.
+[//]: A Group Trustee sits on the Group Trustee Board. They act as a charity trustee, providing oversight to ensure that the group’s aims are being met in a responsible way. This role can be as simple as attending board meetings, of which we only normally hold a few times a year, but could also be expanded to cover support for almost any area of the group’s activities.
 
-- Attend Trustee Board meetings
+[//]: - Attend Trustee Board meetings
 
-<a href="mailto:gsl@westsidescouts.org?subject=Trustee Enquiry" class="btn btn--success">Make a trustee enquiry</a>
-{: .text-center}
+[//]: <a href="mailto:gsl@westsidescouts.org?subject=Trustee Enquiry" class="btn btn--success">Make a trustee enquiry</a>
+[//]: {: .text-center}
 
 ## Role descriptions - frontline roles
 
