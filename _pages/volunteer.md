@@ -42,7 +42,7 @@ Neither do you need to have any 'traditional' scout skills, such as tying knots 
 
 At Scouts we celebrate difference and welcome everyone. Whatever your background, identity or ability, there’s a volunteer spot with your name on it.
 
-<a href="mailto:gsl@westsidescouts.org?subject=Volunteering Enquiry" class="btn btn--success">Email gsl@westsidescouts.org</a> to join the team.
+<a href="mailto:lead.volunteer@westsidescouts.org?subject=Volunteering Enquiry" class="btn btn--success">Email lead.volunteer@westsidescouts.org</a> to join the team.
 {: .text-center}
 
 [//]: # <- You can use this character set to comment out sections of the below when they are filled
@@ -62,7 +62,7 @@ The most important skill for a successful Lead Volunteer is the ability to manag
 - Ensure that a challenging, exciting and balanced programme is offered to young people in the Scout Group.
 - Work with other Lead Volunteers in the District to ensure that the District thrives and supports Scout Groups.
 
-<a href="mailto:gsl@westsidescouts.org?subject=Lead Volunteer Enquiry" class="btn btn--success">Make a lead volunteer enquiry</a>
+<a href="mailto:lead.volunteer@westsidescouts.org?subject=Lead Volunteer Enquiry" class="btn btn--success">Make a lead volunteer enquiry</a>
 {: .text-center}
 
 [//]: # ### Systems Administrator
@@ -74,7 +74,7 @@ The most important skill for a successful Lead Volunteer is the ability to manag
 [//]: # - Develop additional content (optional)
 [//]: # - Develop new and innovative digital systems to support other adult volunteers in (optional)
 
-[//]: # <a href="mailto:gsl@westsidescouts.org?subject=Sysadmin Enquiry" class="btn btn--success">Make a sysadmin enquiry</a>
+[//]: # <a href="mailto:lead.volunteer@westsidescouts.org?subject=Sysadmin Enquiry" class="btn btn--success">Make a sysadmin enquiry</a>
 [//]: # {: .text-center}
 
 [//]: # ### Training Coordinator
@@ -85,7 +85,7 @@ The most important skill for a successful Lead Volunteer is the ability to manag
 [//]: # - Highlight opportunities for adult volunteers to gain skills
 [//]: # - Organise opportunities for adult volunteers to gain or share skills (optional)
 
-[//]: # <a href="mailto:gsl@westsidescouts.org?subject=Training Coordinator Enquiry" class="btn btn--success">Make a training coordinator enquiry</a>
+[//]: # <a href="mailto:lead.volunteer@westsidescouts.org?subject=Training Coordinator Enquiry" class="btn btn--success">Make a training coordinator enquiry</a>
 [//]: # {: .text-center}
 
 ### Marketing Lead
@@ -95,7 +95,7 @@ The Marketing Lead helps demonstrate the great work we do within the group, to s
 - Lead in the creation and dissemination of advertising materials to help grow the group sustainably.
 - Help section leaders to expand the group’s social media presence (optional)
 
-<a href="mailto:gsl@westsidescouts.org?subject=Marketing Lead Enquiry" class="btn btn--success">Make a marketing lead enquiry</a>
+<a href="mailto:lead.volunteer@westsidescouts.org?subject=Marketing Lead Enquiry" class="btn btn--success">Make a marketing lead enquiry</a>
 {: .text-center}
 
 [//]: ### Group Trustee x2
@@ -104,7 +104,7 @@ The Marketing Lead helps demonstrate the great work we do within the group, to s
 
 [//]: - Attend Trustee Board meetings
 
-[//]: <a href="mailto:gsl@westsidescouts.org?subject=Trustee Enquiry" class="btn btn--success">Make a trustee enquiry</a>
+[//]: <a href="mailto:lead.volunteer@westsidescouts.org?subject=Trustee Enquiry" class="btn btn--success">Make a trustee enquiry</a>
 [//]: {: .text-center}
 
 ## Role descriptions - frontline roles
@@ -122,7 +122,7 @@ The Scouts Section Leader drives the operation of our scout section (10.5 to 14 
 - Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
 - Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
 
-<a href="mailto:gsl@westsidescouts.org?subject=Scout Leader Enquiry" class="btn btn--success">Make a leadership enquiry</a>
+<a href="mailto:lead.volunteer@westsidescouts.org?subject=Scout Leader Enquiry" class="btn btn--success">Make a leadership enquiry</a>
 {: .text-center}
 
 ### Assistant Section Leader - all sections x9
@@ -137,5 +137,5 @@ Assistant Section Leaders support the responsibilities of Section Leaders (liste
 - Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
 - Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
 
-<a href="mailto:gsl@westsidescouts.org?subject=ASL Enquiry" class="btn btn--success">Make an assistant leadership enquiry</a>
+<a href="mailto:lead.volunteer@westsidescouts.org?subject=ASL Enquiry" class="btn btn--success">Make an assistant leadership enquiry</a>
 {: .text-center}
