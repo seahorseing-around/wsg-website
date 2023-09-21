@@ -65,6 +65,16 @@ The most important skill for a successful Lead Volunteer is the ability to manag
 <a href="mailto:lead.volunteer@westsidescouts.org?subject=Lead Volunteer Enquiry" class="btn btn--success">Make a lead volunteer enquiry</a>
 {: .text-center}
 
+### Group Secretary
+
+The Group Secretary is a charity trustee who supports the running of the Trustee Board. This role would suit someone who is organised, but no formal experience is required. This is a flexible role, with only a small number of commitments around board meetings. Responsibilities include:
+
+- Organising Trustee Board meetings and taking minutes.
+- Support the Chair in the organisation of Annual and Extraordinary General Meetings, and take minutes at these events.
+
+<a href="mailto:lead.volunteer@westsidescouts.org?subject=Secretary Enquiry" class="btn btn--success">Make a sysadmin enquiry</a>
+{: .text-center}
+
 [//]: # ### Systems Administrator
 
 [//]: # The Systems Administrator maintains the essential computer systems the group depends upon, including our website, volunteer emails and file systems - they will be someone who is confident in the use of technology, but don’t necessarily need to have prior experience with web development or coding. This is a flexible role, with few regular commitments which can be completed quickly, but a broad scope to develop new projects. Responsibilities include:
@@ -116,13 +126,29 @@ The Scouts Section Leader drives the operation of our scout section (10.5 to 14 
 - Delivery of a safe, exciting and stimulating Balanced Programme for the Section taking into account the needs, interests and abilities of the young people.
 - Ensure the safe delivery of the programme in accordance with the Policy, Organisation and Rules of The Scout Association.
 - Ensure that every young person in the Section has the opportunity to attend at least one nights away experience each year.
-- Actively support and promote the achievement of badges and awards in particular the Chief Scouts’ Award.
+- Actively support and promote the achievement of badges and awards in particular the Chief Scout's Award.
 - Ensure regular opportunities are provided for young people to express their views on the programme and running on the Section, and that those views are taken into account.
 - Agree responsibilities with Assistant Section Leaders, Section Assistants and parent helpers taking into account the development of the individual’s leadership potential.
 - Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
 - Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
 
 <a href="mailto:lead.volunteer@westsidescouts.org?subject=Scout Leader Enquiry" class="btn btn--success">Make a leadership enquiry</a>
+{: .text-center}
+
+### Section Leader - St Luke's Beavers
+
+The St Luke's Beaver Section Leader drives the operation of our beaver colony at St Luke's (6 to 8 years). They should be motivated to help the section deliver skills for life and comfortable engaging with our great young people on a regular basis. However, you’re not doing this alone - this role can be shared as part of a team, and will always be supported by assistant section leaders and the rest of the group. This is a great role for 
+
+- Delivery of a safe, exciting and stimulating Balanced Programme for the Section taking into account the needs, interests and abilities of the young people.
+- Ensure the safe delivery of the programme in accordance with the Policy, Organisation and Rules of The Scout Association.
+- Ensure that every young person in the Section has the opportunity to attend at least one nights away experience each year.
+- Actively support and promote the achievement of badges and awards in particular the Chief Scout's Award.
+- Ensure regular opportunities are provided for young people to express their views on the programme and running on the Section, and that those views are taken into account.
+- Agree responsibilities with Assistant Section Leaders, Section Assistants and parent helpers taking into account the development of the individual’s leadership potential.
+- Ensure accurate records are kept of the young people in the Section in accordance with the Data Protection Act.
+- Make and maintain good relationships with parents/carers of the young people, including running a parent rota.
+
+<a href="mailto:lead.volunteer@westsidescouts.org?subject=Beaver Leader Enquiry" class="btn btn--success">Make a leadership enquiry</a>
 {: .text-center}
 
 ### Assistant Section Leader - all sections x9
