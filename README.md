@@ -10,7 +10,6 @@ Make changes by pushing to gh-pages branch
 ## Get Access
 Ask Craig Hawes for access by becoming a collaborator
 
-
 ## Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
@@ -28,6 +27,11 @@ Contains basic configuration to get you a site with:
 - Site wide search.
 
 Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+
+## Running test builds locally on Windows
+
+Installed Microsoft Visual Studio Code: https://code.visualstudio.com/, git for windows: https://git-scm.com/download/win and Ruby: https://rubyinstaller.org/downloads/ (in a file path with no spaces because that caused errors)
+Following these instructions: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll 
 
 ---
 
